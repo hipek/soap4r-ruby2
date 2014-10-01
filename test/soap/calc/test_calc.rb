@@ -1,6 +1,6 @@
 require 'test/unit'
 require 'soap/rpc/driver'
-require 'server.rb'
+# require 'server.rb'
 
 
 module SOAP

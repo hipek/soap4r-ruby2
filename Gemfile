@@ -8,8 +8,7 @@ source "http://rubygems.org"
 group :development do
   gem "shoulda", ">= 0"
   gem "awesome_print", :require => 'ap'
-  gem "pry"
-  gem "bundler", "~> 1.0.0"
-  gem "jeweler", "~> 1.5.2"
-  gem "rcov", ">= 0"
+  gem "byebug"
+  gem "bundler", "~> 1.7.0"
+  gem "jeweler"
 end

@@ -1,6 +1,6 @@
 require 'test/unit'
 require 'soap/wsdlDriver'
-require 'DatetimeService.rb'
+# require 'DatetimeService.rb'
 
 
 module WSDL
